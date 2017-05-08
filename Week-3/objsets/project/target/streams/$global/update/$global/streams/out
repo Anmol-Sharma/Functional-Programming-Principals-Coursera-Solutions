@@ -2817,7 +2817,7 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.9!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.5!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 2513ms :: artifacts dl 63ms
+[debug] :: resolution report :: resolve 4013ms :: artifacts dl 125ms
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT compile produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-compile.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT runtime produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-runtime.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT test produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-test.xml
@@ -2831,5 +2831,5 @@
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT docs produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-docs.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT pom produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-pom.xml
 [debug] 	report for default#objsets-build;0.1-SNAPSHOT scala-tool produced in /home/dc/Functional_Programming_Scala/Week-3/objsets/project/target/resolution-cache/reports/default-objsets-build-scala-tool.xml
-[debug] 	resolve done (2513ms resolve - 63ms download)
+[debug] 	resolve done (4013ms resolve - 125ms download)
 [info] Done updating.
